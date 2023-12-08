@@ -1,2 +1,5 @@
 git config --global user.name "Ameen"
 git config --global user.email "muhammadameens123@gmail.com"
+git list : shows all history
+git branch : list all branches
+
