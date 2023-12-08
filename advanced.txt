@@ -2,4 +2,8 @@ git config --global user.name "Ameen"
 git config --global user.email "muhammadameens123@gmail.com"
 git list : shows all history
 git branch : list all branches
-
+git remote add name remote remote_path
+git remote -v
+git stash
+git stash pop
+git merge
